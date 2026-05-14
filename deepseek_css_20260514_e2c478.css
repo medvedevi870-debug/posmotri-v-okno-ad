@@ -1,0 +1,20 @@
+.page.theme_dark {
+    background-color: #0a0a1a;
+    color: #e0e0e0;
+    background-image: url('../images/background-dark.jpg');
+}
+
+.theme_dark .header__rec {
+    display: block;
+    color: #ff4444;
+}
+
+.theme_dark .card {
+    background: rgba(20, 20, 40, 0.8);
+    backdrop-filter: blur(4px);
+}
+
+.theme_dark .theme-switch__button {
+    background: rgba(255, 255, 255, 0.2);
+    color: #e0e0e0;
+}

@@ -1,0 +1,11 @@
+hard-to-focus/
+├── index.html
+├── styles/
+│   ├── light.css
+│   ├── dark.css
+│   └── global.css
+├── images/
+│   ├── background-light.jpg
+│   ├── background-dark.jpg
+│   └── rec.svg
+└── README.md

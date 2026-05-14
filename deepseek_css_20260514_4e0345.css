@@ -1,0 +1,19 @@
+.page.theme_light {
+    background-color: #f5f0e8;
+    color: #1a1a1a;
+    background-image: url('../images/background-light.jpg');
+}
+
+.theme_light .header__rec {
+    display: none;
+}
+
+.theme_light .card {
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.theme_light .theme-switch__button {
+    background: rgba(0, 0, 0, 0.1);
+    color: #1a1a1a;
+}
